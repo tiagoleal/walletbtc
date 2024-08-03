@@ -3,20 +3,15 @@
 
 <p align="center">
   <a href="https://github.com/tiagoleal/walletbtc">
-    <img alt="Current Version" src="https://img.shields.io/badge/version-1.0.0 -blue.svg">
-  </a>
+    <img alt="Current Version" src="https://img.shields.io/badge/version-1.0.0 -blue.svg"></a>
    <a href="https://nodejs.org/en/">
-    <img alt="Node Version" src="https://img.shields.io/badge/node-%3E%3D%2020.16.0-brightgreen" target="_blank">
-  </a>
+    <img alt="Node Version" src="https://img.shields.io/badge/node-%3E%3D%2020.16.0-brightgreen" target="_blank"></a>
   <a href="https://www.npmjs.com/package/bip32">
-    <img alt="" src="https://img.shields.io/badge/bip32-2.0.6-red.svg" target="_blank">
-  </a>
+    <img alt="" src="https://img.shields.io/badge/bip32-2.0.6-red.svg" target="_blank"></a>
   <a href="https://www.npmjs.com/package/bip39">
-    <img alt="" src="https://img.shields.io/badge/bip39-3.1.0-blue.svg" target="_blank">
-  </a>
+    <img alt="" src="https://img.shields.io/badge/bip39-3.1.0-blue.svg" target="_blank"></a>
    <a href="https://www.npmjs.com/package/bitcoinjs-lib">
-    <img alt="" src="https://img.shields.io/badge/bitcoinjs-6.1.6-blue.svg" target="_blank">
-  </a>
+    <img alt="" src="https://img.shields.io/badge/bitcoinjs-6.1.6-blue.svg" target="_blank"></a>
 </p>
 
 ![](https://github.com/tiagoleal/walletbtc/blob/master/img/wallet_generator.png)
